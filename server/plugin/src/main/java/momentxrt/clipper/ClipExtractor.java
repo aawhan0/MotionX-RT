@@ -1,4 +1,4 @@
-package clipper;
+package momentxrt.clipper;
 
 public class ClipExtractor {
     

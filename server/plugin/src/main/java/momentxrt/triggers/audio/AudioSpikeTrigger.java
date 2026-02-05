@@ -1,4 +1,4 @@
-package triggers.audio;
+package momentxrt.triggers.audio;
 
 public class AudioSpikeTrigger {
     
